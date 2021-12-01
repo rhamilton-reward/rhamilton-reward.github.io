@@ -1,11 +1,12 @@
+
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "Y5FQ2LAJCR.com.vegan.sculpted",
-        "paths": ["*"]
-      }
-    ]
+      "apps": [],
+      "details": [
+          {
+              "appID": "Y5FQ2LAJCR.com.vegan.sculpted",
+              "paths": [ "*" ]
+          }
+      ]
   }
 }
